@@ -56,8 +56,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ## 🧐 Using Components in Django Templates
 
-To mount React components, add HTML containers with `data-component` attributes.
-
 ```html
 <!-- base.html -->
 {% load static %}
