@@ -260,6 +260,24 @@ Then Django will load the static file from:
 <script src="{% static 'build/react-build.js' %}"></script>
 ```
 
+# 🛠️ Project Setup Guide
+
+This is a basic guide to clone and run the project locally.
+
+1. Clone the repo
+2. Create and activate a virtual environment
+```bash
+python -m venv venv
+
+# Active the virtual environment
+source venv/bin/activate
+# To deactivate
+deactive
+```
+3. Install project dependencies
+```bash
+pip install -r requirements.txt
+```
 ---
 
 ## ✅ Summary
