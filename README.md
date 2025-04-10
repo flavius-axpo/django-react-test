@@ -29,10 +29,8 @@ your-project/
 
 ## 🚀 React Entry Point (`main.jsx`)
 
-In development, React components are mounted dynamically by searching the DOM for `data-component` attributes.
-
 ```jsx
-/main.jsx;
+main.jsx;
 
 // Wait for the DOM content to be loaded
 document.addEventListener("DOMContentLoaded", () => {
@@ -54,7 +52,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 });
 ```
-
 ---
 
 ## 🧐 Using Components in Django Templates
