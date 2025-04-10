@@ -1,0 +1,18 @@
+.container {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: var(--border) 1px solid;
+  background-color: var(--surface);
+  padding: 8px 16px;
+  color: var(--primary);
+  border-radius: 9999px;
+  cursor: pointer;
+}
+
+.text {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 16px;
+}

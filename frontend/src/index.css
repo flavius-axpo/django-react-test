@@ -1,0 +1,9 @@
+:root {
+  --primary: #313193;
+
+  --border: #313193;
+  --surface: #f8f8f8;
+  --text-primary: #3d3d3d;
+
+  box-sizing: border-box;
+}

@@ -1,0 +1,36 @@
+# Python
+*.pyc
+*.pyo
+__pycache__
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.idea/
+*.vscode/
+
+# Django
+/static/
+/media/
+
+# React (Vite)
+node_modules/
+build/
+dist/
+
+# Environments
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Python Virtual Environment
+venv/
+
