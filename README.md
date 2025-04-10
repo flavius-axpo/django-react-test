@@ -265,13 +265,10 @@ Then Django will load the static file from:
 This is a basic guide to clone and run the project locally.
 
 1. Clone the repo
-2. Create and activate a virtual environment
+2. Active the virtual environment
 ```bash
-python -m venv venv
-
-# Active the virtual environment
 source venv/bin/activate
-# To deactivate
+# To deactivate just run: 
 deactive
 ```
 3. Install project dependencies
